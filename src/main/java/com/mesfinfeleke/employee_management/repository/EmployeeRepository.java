@@ -1,4 +1,4 @@
-package com.mesfinfeleke.employee_management.dto;
+package com.mesfinfeleke.employee_management.repository;
 
 import com.mesfinfeleke.employee_management.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
